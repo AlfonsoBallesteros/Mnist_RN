@@ -17,13 +17,12 @@
 Building model RN with data set Mnist
 
 ## Outbuildings
-
-  1. Tensorflow 1.14.0
-  2. Keras 2.3.1
-  3. Cloud Training: PaperSpace
-  4. Data Set: Mnist
-  5. Backend: Flask
-  6. Frontend: Vanilla Javascript 
+    1. Tensorflow 1.14.0
+    2. Keras 2.3.1
+    3. Cloud Training: PaperSpace
+    4. Data Set: Mnist
+    5. Backend: Flask
+    6. Frontend: Vanilla Javascript 
 
 ## Install
 
